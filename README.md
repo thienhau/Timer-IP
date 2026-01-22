@@ -18,7 +18,7 @@ The IP is designed with high-performance characteristics for optimal flexibility
 
 ## 🏗️ System Block Diagram
 
-![Block diagram](.block_diagram.png)
+![Block diagram](block_diagram.png)
 
 Internal connectivity components:
 * **APB Interface:** Handles protocol decoding and bus data flow control.
